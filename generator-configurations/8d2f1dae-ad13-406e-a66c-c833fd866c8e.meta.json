@@ -1,0 +1,12 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/da985936-9cf3-43e9-9d94-b3d2ac47d971/generator-configuration",
+  "projectIri": "8d2f1dae-ad13-406e-a66c-c833fd866c8e",
+  "types": [
+    "http://dataspecer.com/resources/v1/generator-configuration"
+  ],
+  "userMetadata": {},
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
